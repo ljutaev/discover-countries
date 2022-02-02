@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    vuess
+    <router-view />
   </div>
 </template>
 
